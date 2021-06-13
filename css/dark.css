@@ -1,0 +1,31 @@
+body.darkmode{
+    background-color: rgb(32,32,44);
+}
+
+body.darkmode .botones-header button{
+    filter: invert(0.4);
+}
+
+body.darkmode .botones-header button:hover{
+	background: #e5e5e5;
+}
+
+body.darkmode .contenedor-logo button{
+    filter: invert(0.4);
+}
+
+body.darkmode .contenedor-logo button:hover{
+	background: #e5e5e5;
+}
+
+body.darkmode .menu-lateral{
+    background-color: rgb(32,32,44);
+}
+
+body.darkmode .main{
+    background-color: rgb(32,32,44);
+}
+
+body.darkmode .main .titulo label{
+    color: rgb(97, 96, 96);
+}
